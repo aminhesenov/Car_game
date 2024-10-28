@@ -1,0 +1,17 @@
+D:\C# dersleri\Car_game\Car_game\bin\Debug\net8.0-windows\Car_game.exe
+D:\C# dersleri\Car_game\Car_game\bin\Debug\net8.0-windows\Car_game.deps.json
+D:\C# dersleri\Car_game\Car_game\bin\Debug\net8.0-windows\Car_game.runtimeconfig.json
+D:\C# dersleri\Car_game\Car_game\bin\Debug\net8.0-windows\Car_game.dll
+D:\C# dersleri\Car_game\Car_game\bin\Debug\net8.0-windows\Car_game.pdb
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.Form1.resources
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.Properties.Resources.resources
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.csproj.GenerateResource.cache
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.AssemblyInfoInputs.cache
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.AssemblyInfo.cs
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.dll
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\refint\Car_game.dll
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.pdb
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\Car_game.genruntimeconfig.cache
+D:\C# dersleri\Car_game\Car_game\obj\Debug\net8.0-windows\ref\Car_game.dll
